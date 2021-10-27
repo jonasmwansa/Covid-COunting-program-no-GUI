@@ -1,6 +1,6 @@
 public class Covid
 {
-    //fields
+    //needed fields
     private int totalCases;
     private int activeCases;
     private int  totalDeaths;
